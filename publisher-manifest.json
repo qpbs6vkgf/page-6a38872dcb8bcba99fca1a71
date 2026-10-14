@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "1af52f42d5b69fd3bd2352aa",
+  "owner": "qpbs6vkgf",
+  "repo": "page-6a38872dcb8bcba99fca1a71",
+  "title": "clashmi官网",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6a38872dcb8bcba99fca1a71",
+      "a": "clashmi官网",
+      "b": "",
+      "entity": "clashmi官网",
+      "brand": "clashmi官网",
+      "separator": "",
+      "path": "index.html",
+      "hash": "bee6871386718f111eba5cff215d09fb641c7ddf83e8ed428023438766d3a066",
+      "content": {
+        "keyword1": "clashmi官网",
+        "keyword2": "",
+        "primary_entity": "clashmi官网",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clashmi官网提供专业VPN加速器和Clash客户端下载，解锁流媒体，高速节点支持3-20台设备同时在线。",
+          "AI_DESCRIPTION": "clashmi官网提供专业VPN加速器和Clash客户端下载，解锁流媒体，高速节点支持3-20台设备同时在线。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --blue: #001f3f;\n            --cyan: #00d4ff;\n        }\n        * { margin:0; padding:0; box-sizing:border-box; }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background: var(--blue);\n            color: #fff;\n            line-height: 1.6;\n            max-width: 480px;\n            margin: 0 auto;\n            background-attachment: fixed;\n        }\n        header {\n            background: rgba(0, 31, 63, 0.95);\n            padding: 15px 20px;\n            position: sticky;\n            top: 0;\n            z-index: 100;\n            display: flex;\n            align-items: center;\n            justify-content: space-between;\n            border-bottom: 2px solid var(--cyan);\n        }\n        .logo {\n            font-size: 24px;\n            font-weight: 700;\n            color: var(--cyan);\n        }\n        main {\n            padding: 20px 15px;\n        }\n        h1 {\n            font-size: 28px;\n            text-align: center;\n            margin-bottom: 10px;\n            background: linear-gradient(90deg, var(--cyan), #fff);\n            -webkit-background-clip: text;\n            -webkit-text-fill-color: transparent;\n        }\n        .subtitle {\n            text-align: center;\n            font-size: 18px;\n            margin-bottom: 30px;\n            color: #ccc;\n        }\n        section {\n            margin-bottom: 35px;\n            background: rgba(255,255,255,0.05);\n            border-radius: 16px;\n            padding: 25px;\n            border: 1px solid rgba(0, 212, 255, 0.15);\n        }\n        h2 {\n            font-size: 22px;\n            margin-bottom: 15px;\n            color: var(--cyan);\n        }\n        .steps {\n            display: flex;\n            flex-direction: column;\n            gap: 18px;\n        }\n        .step {\n            display: flex;\n            gap: 15px;\n            align-items: flex-start;\n        }\n        .step-num {\n            background: var(--cyan);\n            color: var(--blue);\n            width: 32px;\n            height: 32px;\n            border-radius: 50%;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-weight: bold;\n            flex-shrink: 0;\n        }\n        .plan-card {\n            background: rgba(255,255,255,0.08);\n            border-radius: 12px;\n            padding: 20px;\n            margin-bottom: 15px;\n            border-left: 5px solid var(--cyan);\n        }\n        .plan-card.featured {\n            border-left-color: #00ff9d;\n            box-shadow: 0 0 15px rgba(0, 255, 157, 0.3);\n        }\n        .price {\n            font-size: 28px;\n            font-weight: 700;\n            margin: 12px 0;\n        }\n        .btn {\n            display: block;\n            width: 100%;\n            background: var(--cyan);\n            color: var(--blue);\n            text-align: center;\n            padding: 14px;\n            border-radius: 8px;\n            text-decoration: none;\n            font-weight: 600;\n            margin-top: 10px;\n        }\n        .faq-group {\n            margin-bottom: 20px;\n        }\n        details {\n            margin-bottom: 12px;\n            background: rgba(255,255,255,0.06);\n            border-radius: 10px;\n            overflow: hidden;\n        }\n        summary {\n            padding: 16px 20px;\n            font-weight: 600;\n            cursor: pointer;\n            list-style: none;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        p {\n            padding: 0 20px 16px;\n            color: #ddd;\n        }\n        .footer {\n            text-align: center;\n            padding: 30px 20px;\n            font-size: 14px;\n            color: #888;\n        }\n        @media (max-width: 480px) {\n            body { padding: 0 10px; }\n        }\n    </style>\n\n\n    <main>\n        <header>\n            <div class=\"logo\">clashmi</div>\n            <nav>\n                <a href=\"#intro\">首页</a>\n                <a href=\"#plans\">套餐</a>\n                <a href=\"#faq\">FAQ</a>\n            </nav>\n        </header>\n\n        <h1>clashmi官网</h1>\n        <p class=\"subtitle\">专业Clash VPN加速器 | 客户端下载 | 流媒体解锁</p>\n\n        <section id=\"intro\">\n            <h2>品牌简介</h2>\n            <p>clashmi是专注游戏与网络加速的VPN服务品牌，依托全球优质节点池，为用户提供稳定高速的网络连接。无论在家办公、游戏竞技还是日常浏览，我们都能为您带来丝滑体验。</p>\n        </section>\n\n        <section id=\"scenarios\">\n            <h2>使用场景</h2>\n            <ul>\n                <li>· 游戏加速：支持IPLC专线优化延迟</li>\n                <li>· 流媒体解锁：Netflix、Disney+、YouTube等平台畅享</li>\n                <li>· 日常加速：全球线路任您选择</li>\n                <li>· 团队协作：20台设备同时在线</li>\n            </ul>\n        </section>\n\n        <section id=\"steps\">\n            <h2>操作说明（3步完成连接）</h2>\n            <div class=\"steps\">\n                <div class=\"step\">\n                    <div class=\"step-num\">1</div>\n                    <div>\n                        <strong>选择套餐</strong><br>\n                        <span>根据需求选择基础版、旗舰版或团队版</span>\n                    </div>\n                </div>\n                <div class=\"step\">\n                    <div class=\"step-num\">2</div>\n                    <div>\n                        <strong>下载客户端</strong><br>\n                        <span>访问官网获取官方Clash客户端</span>\n                    </div>\n                </div>\n                <div class=\"step\">\n                    <div class=\"step-num\">3</div>\n                    <div>\n                        <strong>一键导入订阅</strong><br>\n                        <span>粘贴节点链接立即加速</span>\n                    </div>\n                </div>\n            </div>\n        </section>\n\n        <section id=\"plans\">\n            <h2>套餐选择</h2>\n            <div class=\"plan-card\">\n                <h3>基础版</h3>\n                <p>每月 100GB 极速流量</p>\n                <p><strong>支持 3 台设备同时在线</strong></p>\n                <p>解锁基础流媒体 + 普通线路节点池</p>\n                <a href=\"#\" class=\"btn\">立即购买</a>\n                <p>按年付仅需 ¥150/年</p>\n            </div>\n\n            <div class=\"plan-card featured\">\n                <h3>旗舰版</h3>\n                <p>每月 300GB 极速流量</p>\n                <p><strong>支持 5 台设备同时在线</strong></p>\n                <p>全节点原生流媒体解锁 + IPLC游戏加速优化</p>\n                <a href=\"#\" class=\"btn\">立即购买</a>\n                <p>按年付仅需 ¥350/年</p>\n            </div>\n\n            <div class=\"plan-card\">\n                <h3>团队版</h3>\n                <p>每月 1000GB 极速流量</p>\n                <p><strong>支持 20 台设备同时在线</strong></p>\n                <p>VIP专属高带宽节点 + 企业定制路由 + 专属客户经理</p>\n                <a href=\"#\" class=\"btn\">立即购买</a>\n                <p>按年付仅需 ¥850/年</p>\n            </div>\n        </section>\n\n        <section id=\"download\">\n            <h2>客户端选择与下载</h2>\n            <p>我们为不同操作系统提供了官方客户端：</p>\n            <div>\n                <a href=\"#\">Windows 客户端</a>\n                <a href=\"#\">macOS 客户端</a>\n                <a href=\"#\">Android 客户端</a>\n                <a href=\"#\">iOS 客户端</a>\n            </div>\n            <p>所有客户端均支持一键订阅导入，立即享受加速服务</p>\n        </section>\n\n        <section id=\"faq\">\n            <h2>常见问题 FAQ</h2>\n            \n            <div class=\"faq-group\">\n                <details>\n                    <summary>什么是clashmi？</summary>\n                    <p>clashmi是一款专业的VPN加速器品牌，专注于提供高速稳定的网络连接和流媒体解锁服务。所有节点均采用IPLC专线，游戏延迟低至20ms以内。</p>\n                </details>\n                <details>\n                    <summary>支持哪些设备？</summary>\n                    <p>支持Windows、macOS、Android、iOS四大系统客户端，同时支持3-20台设备同时在线，满足个人与团队需求。</p>\n                </details>\n                <details>\n                    <summary>如何选择套餐？</summary>\n                    <p>基础版适合个人日常使用，旗舰版推荐游戏玩家，团队版适合企业用户。按年付可享受最高优惠。</p>\n                </details>\n                <details>\n                    <summary>客户端如何下载？</summary>\n                    <p>请访问官网官网下载对应操作系统的官方客户端，所有客户端均来自官方渠道，无需担心安全问题。</p>\n                </details>\n                <details>\n                    <summary>支持解锁哪些平台？</summary>\n                    <p>Netflix、Disney+、YouTube、Amazon Prime、HBO Max等主流流媒体平台均可原生解锁，部分地区支持区域切换。</p>\n                </details>\n                <details>\n                    <summary>售后支持如何？</summary>\n                    <p>旗舰版及以上套餐提供7×24小时优先工单支持，专属客户经理快速响应所有问题。</p>\n                </details>\n            </div>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <div class=\"footer\">\n        © 2025 clashmi官网 | 官方客户端下载\n        <div>本页面为静态展示，仅供参考</div>\n    </div>\n\n",
+          "hash": "fc0ea6c4c7cab37b8dcf41a33e7e3dd3f3506f20278a02f2f494497b17d133bd",
+          "seo": {
+            "title": "clashmi官网 - 专业VPN加速器 | Clash客户端下载",
+            "keywords": "clashmi, vpn加速器, clash客户端下载, 梯子, 网络加速, 机场加速",
+            "description": "clashmi官网提供专业VPN加速器和Clash客户端下载，解锁流媒体，高速节点支持3-20台设备同时在线。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "miaotk.cn",
+    "host": "p-7063108905.miaotk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "8efc0e56ca0076e7d717dd1745905d7bcf9ead6f807feb1c82d3ef0c47c21458",
+    "sitemap.xml": "78c09a1a2dce1446745992912b1e0054edea7b7b3826fd787294941481194f76",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "52501a2b6990d07c0656cd2f02a35fea3f9df485163ef62227e0082decce6e03",
+    "robots.txt": "07be355523e3463b6f07f3c33889e55159af909c1ffcab13ab2e47701d839aaa",
+    "0532e0906f999488db29a645d5f33549.txt": "4d534ff977a6b4d0054474b585badad1621f982202fc563d414ba04c4a8a4093"
+  },
+  "revision": "ea4918ffa40a81d5f20dc5b2f3598ca4c8c9e97ee0c5763e1c116dee2cd26987"
+}

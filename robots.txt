@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-7063108905.miaotk.cn/sitemap.xml
